@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Complete-Game\Scripts\Done_GameController.cs">
+    <Files>
+      <File FileName="Assets\_Complete-Game\Scripts\Done_PlayerController.cs" Line="37" Column="36" />
+      <File FileName="Assets\_Complete-Game\Scripts\Done_DestroyByContact.cs" Line="24" Column="35" />
+      <File FileName="Assets\_Complete-Game\Scripts\Done_BGScroller.cs" Line="13" Column="20" />
+      <File FileName="Assets\_Complete-Game\Scripts\Done_GameController.cs" Line="91" Column="18" />
+      <File FileName="Assets\Waktu.cs" Line="18" Column="3" />
+      <File FileName="Assets\_Complete-Game\Scripts\Done_DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Complete-Game\Scripts\Done_DestroyByBoundary.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
